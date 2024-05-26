@@ -5,6 +5,8 @@ Welcome to the repository focused on the intersection of large language models (
 
 Our aim is to provide a comprehensive resource for researchers, writers, and enthusiasts who are interested in how artificial intelligence can intersect with and enhance the creative writing process.
 
+For more information about our work please visit [Sector44 Website](https://www.sector44.com)
+
 ## How to Use This Repository
 This repository is organized as a list of resources. You can browse through the contents to find studies, articles, and links that interest you. Each entry is provided with a brief description and a link to the original source when available.
 
