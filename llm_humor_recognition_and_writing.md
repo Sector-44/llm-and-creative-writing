@@ -1,3 +1,16 @@
+# Prompt to GPT-3: Step-by-Step Thinking Instructions for Humor Generation(https://arxiv.org/pdf/2306.13195) -- 2023
+
+Abstract:
+Artificial intelligence has made significant progress in
+natural language processing, with models like GPT-3
+demonstrating impressive capabilities. However, these
+models still have limitations when it comes to complex
+tasks that require an understanding of the user, such as
+mastering human comedy writing strategies. This paper
+explores humor generation using GPT-3 by modeling
+human comedy writing theory and leveraging step-bystep thinking instructions. In addition, we explore the
+role of cognitive distance in creating humor.
+
 # [Large Dataset and Language Model Fun-Tuning for Humor Recognition](https://aclanthology.org/P19-1394.pdf) -- 2019
 
 Abstract:
