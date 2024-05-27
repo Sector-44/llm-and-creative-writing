@@ -11,7 +11,7 @@ explores humor generation using GPT-3 by modeling
 human comedy writing theory and leveraging step-bystep thinking instructions. In addition, we explore the
 role of cognitive distance in creating humor.
 
-# [Large Dataset and Language Model Fun-Tuning for Humor Recognition](https://aclanthology.org/P19-1394.pdf) -- 2019
+# Large Dataset and Language Model Fun-Tuning for Humor Recognition(https://aclanthology.org/P19-1394.pdf) -- 2019
 
 Abstract:
 The task of humor recognition has attracted a lot of attention recently due to the urge to process large amounts of user-generated texts and rise of conversational agents. We collected a dataset of jokes and funny dialogues in Russian from various online resources and complemented them carefully with unfunny texts with similar lexical properties. The dataset comprises of more than 300,000 short texts, which is significantly larger than any previous humor-related corpus. Manual annotation of 2,000 items proved the reliability of the corpus construction approach. Further, we applied language model fine-tuning for text classification and obtained an F1 score of 0.91 on a test set, which constitutes a considerable gain over baseline methods. The dataset is freely available for research community.
