@@ -1,5 +1,4 @@
-# [Evaluating Character Understanding of Large Language Models via
-Character Profiling from Fictional Works](https://arxiv.org/pdf/2404.12726) -- 2024
+# [Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works](https://arxiv.org/pdf/2404.12726) -- 2024
 
 Abstract:
 Large language models (LLMs) have demonstrated impressive performance and spurred numerous AI applications, in which role-playing
