@@ -12,8 +12,28 @@ human comedy writing theory and leveraging step-bystep thinking instructions. In
 role of cognitive distance in creating humor.
 
 # [Step by Step Thinking Instructions for Humor Generation](https://github.com/Stry233/Prompt-to-GPT-3-Step-by-Step-Thinking-Instructions-for-Humor-Generation?tab=readme-ov-file)
+"We explores humor generation using GPT-3 by modeling human comedy writing theory and leveraging step-by-step thinking instructions. In addition, we explore the role of cognitive distance in creating humor. Our findings suggest that GPT-3's ability to generate humor can be significantly improved by theory-driven step-by-step thinking instructions."
 
 # [Witscript: A System for Generating Improvised Jokes in a Conversation](https://arxiv.org/pdf/2302.02008) -- 2021
+
+Abstract:
+A chatbot is perceived as more humanlike and likeable
+if it includes some jokes in its output. But most existing
+joke generators were not designed to be integrated into
+chatbots. This paper presents Witscript, a novel joke
+generation system that can improvise original, contextually relevant jokes, such as humorous responses during a conversation. The system is based on joke writing
+algorithms created by an expert comedy writer.
+Witscript employs well-known tools of natural language processing to extract keywords from a topic sentence and, using wordplay, to link those keywords and
+related words to create a punch line. Then a pretrained
+neural network language model that has been fine-tuned
+on a dataset of TV show monologue jokes is used to
+complete the joke response by filling the gap between
+the topic sentence and the punch line. A method of internal scoring filters out jokes that don't meet a preset
+standard of quality. Human evaluators judged
+Witscript's responses to input sentences to be jokes
+more than 40% of the time. This is evidence that
+Witscript represents an important next step toward giving a chatbot a humanlike sense of humor.
+
 
 # [Large Dataset and Language Model Fun-Tuning for Humor Recognition](https://aclanthology.org/P19-1394.pdf) -- 2019
 
