@@ -11,7 +11,7 @@ explores humor generation using GPT-3 by modeling
 human comedy writing theory and leveraging step-bystep thinking instructions. In addition, we explore the
 role of cognitive distance in creating humor.
 
-# [Step by Step Thinking Instructions for Humor Generation](https://github.com/Stry233/Prompt-to-GPT-3-Step-by-Step-Thinking-Instructions-for-Humor-Generation?tab=readme-ov-file)
+# [Step by Step Thinking Instructions for Humor Generation](https://github.com/Stry233/Prompt-to-GPT-3-Step-by-Step-Thinking-Instructions-for-Humor-Generation?tab=readme-ov-file) -- 2023
 "We explores humor generation using GPT-3 by modeling human comedy writing theory and leveraging step-by-step thinking instructions. In addition, we explore the role of cognitive distance in creating humor. Our findings suggest that GPT-3's ability to generate humor can be significantly improved by theory-driven step-by-step thinking instructions."
 
 # [Witscript: A System for Generating Improvised Jokes in a Conversation](https://arxiv.org/pdf/2302.02008) -- 2021
