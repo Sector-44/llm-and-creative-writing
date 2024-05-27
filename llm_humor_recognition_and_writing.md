@@ -40,5 +40,22 @@ Witscript represents an important next step toward giving a chatbot a humanlike 
 Abstract:
 The task of humor recognition has attracted a lot of attention recently due to the urge to process large amounts of user-generated texts and rise of conversational agents. We collected a dataset of jokes and funny dialogues in Russian from various online resources and complemented them carefully with unfunny texts with similar lexical properties. The dataset comprises of more than 300,000 short texts, which is significantly larger than any previous humor-related corpus. Manual annotation of 2,000 items proved the reliability of the corpus construction approach. Further, we applied language model fine-tuning for text classification and obtained an F1 score of 0.91 on a test set, which constitutes a considerable gain over baseline methods. The dataset is freely available for research community.
 
+# [HumorTools: A Microtask Workflow for Writing News Satire](https://www.cs.columbia.edu/~chilton/web/my_publications/ChiltonHumorTools2016submission.pdf) -- 2015
+
+Abstract:
+Humor is a highly-valued human skill — a sign of intelligence
+and creativity. Humor creation is a long-standing problem in
+Artificial Intelligence, because it does not easily decompose
+and it cannot readily be defined or detected; indeed, many
+humans cannot readily create jokes. However, in our survey
+of advice from professional comedians, we found evidence
+that the humor-generation process can be described. Based
+on this survey, we performed an analysis of news satire from
+The Onion and decomposed the process of humor creation
+into seven microtasks. We then developed a workflow, inspired by the design literature, that invokes these microtasks
+in a novel, dynamic manner. To evaluate our microtasks
+and workflow, we recruited 20 people, finding that the 85%
+of them found the workflow made their process more methodical and the microtasks enabled them to make a wider
+variety of jokes.
 
 
