@@ -42,6 +42,8 @@ The task of humor recognition has attracted a lot of attention recently due to t
 
 # [HumorTools: A Microtask Workflow for Writing News Satire](https://www.cs.columbia.edu/~chilton/web/my_publications/ChiltonHumorTools2016submission.pdf) -- 2015
 
+http://teevan.org/misc/microproductivity/position/chilton-microproductivity.pdf
+
 Abstract:
 Humor is a highly-valued human skill — a sign of intelligence
 and creativity. Humor creation is a long-standing problem in
