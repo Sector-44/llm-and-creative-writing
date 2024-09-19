@@ -7,5 +7,9 @@ Recent advancements in machine translation (MT) have significantly enhanced tran
 # From Role-Play To Drama Interaction: An LLM Solution
 https://arxiv.org/pdf/2405.14231
 
-TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation
+# TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation
 https://howe140.github.io/theatergen.io/
+
+# Epic-Level Text Generation with LLM through Auto-prompted Reinforcement Learning
+https://ieeexplore.ieee.org/abstract/document/10650358/authors#authors
+
