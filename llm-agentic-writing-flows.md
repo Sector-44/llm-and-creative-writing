@@ -1,3 +1,6 @@
+# The Drama Machine: Simulating Character Development with LLM Agents
+https://arxiv.org/pdf/2408.01725
+
 # (Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts
 
 [https://arxiv.org/abs/2405.11804v1]
