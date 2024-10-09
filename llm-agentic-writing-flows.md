@@ -1,3 +1,11 @@
+# A Character-Centric Creative Story Generation via Imagination
+https://arxiv.org/pdf/2409.16667
+
+# The Art of Storytelling: Multi-Agent Generative AI for Dynamic
+Multimodal Narratives
+https://arxiv.org/pdf/2409.11261
+
+
 # The Drama Machine: Simulating Character Development with LLM Agents
 https://arxiv.org/pdf/2408.01725
 
