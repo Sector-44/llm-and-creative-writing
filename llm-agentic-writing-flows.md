@@ -1,3 +1,7 @@
+# AGENTS’ ROOM: NARRATIVE GENERATION THROUGH
+MULTI-STEP COLLABORATION
+https://arxiv.org/pdf/2410.02603
+
 # A Character-Centric Creative Story Generation via Imagination
 https://arxiv.org/pdf/2409.16667
 
