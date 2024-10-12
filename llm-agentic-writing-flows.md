@@ -24,7 +24,9 @@ https://arxiv.org/pdf/2405.14231
 # TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation
 https://howe140.github.io/theatergen.io/
 
-# Epic-Level Text Generation with LLM through Auto-prompted Reinforcement Learning
+## IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation (July 2024)
+https://arxiv.org/pdf/2407.01093
+## Epic-Level Text Generation with LLM through Auto-prompted Reinforcement Learning
 https://ieeexplore.ieee.org/abstract/document/10650358/authors#authors
 
 # CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis (June 2024)
