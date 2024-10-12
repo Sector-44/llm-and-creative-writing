@@ -27,3 +27,6 @@ https://howe140.github.io/theatergen.io/
 # Epic-Level Text Generation with LLM through Auto-prompted Reinforcement Learning
 https://ieeexplore.ieee.org/abstract/document/10650358/authors#authors
 
+# CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis (June 2024)
+https://arxiv.org/pdf/2406.12665
+
