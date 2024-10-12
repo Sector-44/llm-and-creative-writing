@@ -1,5 +1,15 @@
 # October 2024
 
+## NovelDreamer
+https://lnkd.in/dfctdxjg
+https://github.com/arian-emami/NovelDreamer
+
+## Can AI writing be salvaged? Mitigating Idiosyncrasies and Improving Human-AI Alignment in the Writing Process through Edits
+https://arxiv.org/pdf/2409.14509
+
+## Are Large Language Models Capable of Generating Human-Level Narratives?
+https://arxiv.org/pdf/2407.13248
+
 ## AGENTS’ ROOM: NARRATIVE GENERATION THROUGH MULTI-STEP COLLABORATION
 https://arxiv.org/pdf/2410.02603
 
@@ -26,9 +36,19 @@ https://howe140.github.io/theatergen.io/
 
 ## IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation (July 2024)
 https://arxiv.org/pdf/2407.01093
+
 ## Epic-Level Text Generation with LLM through Auto-prompted Reinforcement Learning
 https://ieeexplore.ieee.org/abstract/document/10650358/authors#authors
 
-# CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis (June 2024)
+## ChatGeppetto -an AI-powered Storyteller (November 2023)
+https://www.researchgate.net/publication/378214658_ChatGeppetto_-an_AI-powered_Storyteller
+
+## StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning
+https://arxiv.org/pdf/2405.13042
+
+## CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis (June 2024)
 https://arxiv.org/pdf/2406.12665
+
+## CHIRON: Rich Character Representations in Long-Form Narratives
+https://arxiv.org/pdf/2406.10190
 
