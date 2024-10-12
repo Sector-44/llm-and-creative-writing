@@ -52,6 +52,9 @@ https://arxiv.org/pdf/2405.13042
 ## CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis (June 2024)
 https://arxiv.org/pdf/2406.12665
 
+## HoLLMWood
+https://arxiv.org/pdf/2406.11683
+
 ## CHIRON: Rich Character Representations in Long-Form Narratives
 https://arxiv.org/pdf/2406.10190
 
