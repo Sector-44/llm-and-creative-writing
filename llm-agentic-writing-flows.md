@@ -1,6 +1,4 @@
 # October 2024
-## HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs
-Link: https://arxiv.org/pdf/2405.17633
 
 ## AGENTS’ ROOM: NARRATIVE GENERATION THROUGH MULTI-STEP COLLABORATION
 https://arxiv.org/pdf/2410.02603
