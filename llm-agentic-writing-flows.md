@@ -1,5 +1,8 @@
 # October 2024
 
+## Collective Critics for Creative Story Generation
+https://arxiv.org/pdf/2410.02428
+
 ## NovelDreamer
 https://lnkd.in/dfctdxjg
 https://github.com/arian-emami/NovelDreamer
