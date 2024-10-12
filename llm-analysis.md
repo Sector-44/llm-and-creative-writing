@@ -14,3 +14,6 @@ https://www.sciencedirect.com/science/article/pii/S2405844024102939
 
 ## Can Machines Resonate with Humans? Evaluating the Emotional and Empathic Comprehension of LMs (June 2014)
 https://arxiv.org/pdf/2406.11250
+
+## Harnessing LLMs for multi-dimensional writing assessment: Reliability and alignment with human judgments
+https://www.sciencedirect.com/science/article/pii/S2405844024102939
