@@ -11,3 +11,6 @@ In the current media landscape, understanding the framing of information is cruc
 
 
 https://www.sciencedirect.com/science/article/pii/S2405844024102939
+
+## Can Machines Resonate with Humans? Evaluating the Emotional and Empathic Comprehension of LMs (June 2014)
+https://arxiv.org/pdf/2406.11250
