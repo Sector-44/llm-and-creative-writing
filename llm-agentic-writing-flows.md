@@ -58,3 +58,5 @@ https://arxiv.org/pdf/2406.11683
 ## CHIRON: Rich Character Representations in Long-Form Narratives
 https://arxiv.org/pdf/2406.10190
 
+## Artificial Dreams: Surreal Visual Storytelling as Inquiry Into AI ‘Hallucination’
+https://dl.acm.org/doi/pdf/10.1145/3643834.3660685
