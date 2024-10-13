@@ -1,5 +1,8 @@
 # October 2024
 
+## Web Chat-based Application with Large Language Model and Transformers from Hugging Face for Self-Learning on Storytelling Skills
+https://ieeexplore.ieee.org/document/10665795
+
 ## Collective Critics for Creative Story Generation
 https://arxiv.org/pdf/2410.02428
 
