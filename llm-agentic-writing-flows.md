@@ -66,3 +66,9 @@ https://dl.acm.org/doi/pdf/10.1145/3643834.3660685
 
 ## AESOP
 https://arxiv.org/pdf/2403.07952
+
+## TimeChara
+https://arxiv.org/pdf/2405.18027
+
+## LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA
+https://arxiv.org/abs/2409.02897
