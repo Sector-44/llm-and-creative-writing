@@ -17,3 +17,6 @@ https://arxiv.org/pdf/2406.11250
 
 ## Harnessing LLMs for multi-dimensional writing assessment: Reliability and alignment with human judgments
 https://www.sciencedirect.com/science/article/pii/S2405844024102939
+
+## TIME CHARA & Point in Time Hallucinations
+https://arxiv.org/pdf/2405.18027
